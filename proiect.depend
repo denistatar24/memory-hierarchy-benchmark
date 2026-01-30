@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1765639126 source:c:\an3\sem1\ssc\proiect\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1767811925 source:c:\an3\sem1\ssc\proiect\proiect\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

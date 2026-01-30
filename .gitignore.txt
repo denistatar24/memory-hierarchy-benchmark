@@ -1,0 +1,13 @@
+# Compile results
+*.exe
+*.o
+/bin
+/obj
+
+# IDE Settings
+.idea/
+*.layout
+*.depend
+
+# Temporary files
+*.tmp
